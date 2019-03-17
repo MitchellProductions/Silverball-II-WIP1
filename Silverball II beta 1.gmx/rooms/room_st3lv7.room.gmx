@@ -1310,7 +1310,7 @@ global.levelname = "Crossing Paths";</code>
     <instance objName="obj_barrier_wood_layer2" x="768" y="1600" name="inst_491389F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_barrier_wood_layer2" x="800" y="1600" name="inst_A32EBD25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_barrier_wood_layer2" x="832" y="1600" name="inst_166DEC55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_tnt_layer2" x="753" y="1603" name="inst_51784DD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_tnt_layer2" x="768" y="1600" name="inst_5FB02DBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tile_arrow" x="448" y="96" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_8D254928" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
