@@ -224,7 +224,6 @@
     <room>rooms\room_menu</room>
     <room>rooms\room_beginning</room>
     <room>rooms\room_st1lv1</room>
-    <room>rooms\room_st3lv7</room>
     <room>rooms\room_st1lv2</room>
     <room>rooms\room_st1lv3</room>
     <room>rooms\room_st1lv4</room>
@@ -250,6 +249,7 @@
     <room>rooms\room_st3lv4</room>
     <room>rooms\room_st3lv5</room>
     <room>rooms\room_st3lv6</room>
+    <room>rooms\room_st3lv7</room>
     <room>rooms\room_st3lv8</room>
     <room>rooms\room_st3lv9</room>
     <room>rooms\room_st3lv10</room>
