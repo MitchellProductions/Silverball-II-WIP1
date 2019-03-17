@@ -180,22 +180,24 @@
     <object>objects\obj_exit_fake_touch</object>
     <object>objects\obj_exit_fake_touch_layer1</object>
     <object>objects\obj_exit_fake_touch_layer2</object>
-    <object>objects\obj_powerup_shrink</object>
-    <object>objects\obj_powerup_shrink_layer2</object>
-    <object>objects\obj_powerup_grow</object>
-    <object>objects\obj_powerup_grow_layer2</object>
-    <object>objects\obj_powerup_medium</object>
-    <object>objects\obj_powerup_medium_layer2</object>
-    <object>objects\obj_powerup_fire</object>
-    <object>objects\obj_powerup_fire_layer2</object>
-    <object>objects\obj_powerup_balloon_layer1</object>
-    <object>objects\obj_powerup_balloon_layer2</object>
-    <object>objects\obj_powerup_invisibility_layer1</object>
-    <object>objects\obj_powerup_invisibility_layer2</object>
-    <object>objects\obj_powerup_revisibilty_layer1</object>
-    <object>objects\obj_powerup_revisibility_layer2</object>
-    <object>objects\obj_powerup_reversegravity_layer1</object>
-    <object>objects\obj_powerup_reversegravity_layer2</object>
+    <objects name="powerups">
+      <object>objects\obj_powerup_shrink</object>
+      <object>objects\obj_powerup_shrink_layer2</object>
+      <object>objects\obj_powerup_grow</object>
+      <object>objects\obj_powerup_grow_layer2</object>
+      <object>objects\obj_powerup_medium</object>
+      <object>objects\obj_powerup_medium_layer2</object>
+      <object>objects\obj_powerup_fire</object>
+      <object>objects\obj_powerup_fire_layer2</object>
+      <object>objects\obj_powerup_balloon_layer1</object>
+      <object>objects\obj_powerup_balloon_layer2</object>
+      <object>objects\obj_powerup_invisibility_layer1</object>
+      <object>objects\obj_powerup_invisibility_layer2</object>
+      <object>objects\obj_powerup_revisibilty_layer1</object>
+      <object>objects\obj_powerup_revisibility_layer2</object>
+      <object>objects\obj_powerup_reversegravity_layer1</object>
+      <object>objects\obj_powerup_reversegravity_layer2</object>
+    </objects>
     <object>objects\obj_turbine</object>
     <object>objects\obj_pause_cont</object>
     <object>objects\obj_tnt</object>
