@@ -3,3 +3,12 @@ A game created using GameMaker Studio 1. It plays like Ball Revamped, and 10 lev
 This repository is for editors to contribute new levels and other features, since I ran out of ideas and left the project sitting there for a few years. You'll need a copy of GameMaker Studio 1 to be able to contribute to this project.
 # What to do
 Upload screenshots of your levels for me to review them. Be sure to create new branches for yourselves to not conflict with the main files. I'm seriously new to using GitHub, and I don't know how to get around very much.
+# Powerups
+Green: Shrink ball
+Dark red: Grow ball
+Blue: Normal size ball
+Red: Set the ball on fire (required for lighting fuses)
+Pink: Inflate the ball
+White: Near-invisibility
+Black: Reset visibility
+Green/red bullseye: Reverse gravity
