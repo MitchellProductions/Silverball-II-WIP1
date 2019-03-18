@@ -12,3 +12,5 @@ Pink: Inflate the ball
 White: Near-invisibility
 Black: Reset visibility
 Green/red bullseye: Reverse gravity
+# Currently wanted in future levels
+Tricks on the player, and also more puzzles.
